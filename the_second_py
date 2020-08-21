@@ -1,2 +1,5 @@
-import turtle
+gitimport turtle
 print('dsadasd')
+
+def m666():
+    print("没有狗粮")
